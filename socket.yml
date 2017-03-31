@@ -1,5 +1,8 @@
 name: syncano-auth-mailgun
+version: 0.0.2
 description: Syncano socket for user auth managing with mailgun support
+author:
+  name: Marcin Godlewski
 
 endpoints:
   register:
